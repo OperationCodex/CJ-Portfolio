@@ -62,8 +62,9 @@
     justify-content: space-evenly;
 }
 .text-content {
-    width: 35%;
+    width: 450px; 
 }
+
 #image-title {
     font-size: 3rem;
     overflow: hidden;

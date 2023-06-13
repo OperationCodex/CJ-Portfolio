@@ -62,10 +62,17 @@
     justify-content: space-evenly;
 }
 .text-content {
-    width: 450px; 
+    position:relative;
+
+}
+.text-content .subtext { 
+    position: absolute;
+   
+
 }
 
 #image-title {
+    margin-bottom: 10px;
     font-size: 3rem;
     overflow: hidden;
     border-right: .15em solid orange;

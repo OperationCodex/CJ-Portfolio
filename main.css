@@ -33,6 +33,7 @@
 }
 .top-navbar li a {
     text-decoration: none;
+    color: rgb(0, 0, 0);
 }
 .top-navbar li a:hover {
     color: rgb(20, 113, 180);
